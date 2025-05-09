@@ -12,9 +12,9 @@ namespace cs0509
             //“¯Šúˆ—@Messegebox.Show‚Í“¯ŠúŠÖ”
             MessageBox.Show("Hello");
 
-            button1.Text = "‰Ÿ‚³‚ê‚½";
-            button1.Left = 0;
-            button1.Visible = true;
+            buttonproperty.Text = "‰Ÿ‚³‚ê‚½";
+            buttonproperty.Left = 0;
+            buttonproperty.Visible = true;
         }
     }
 }
