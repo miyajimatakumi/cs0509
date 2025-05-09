@@ -36,7 +36,7 @@
             button1.BackColor = Color.FromArgb(255, 192, 192);
             button1.Font = new Font("Yu Gothic UI", 25F);
             button1.ForeColor = Color.Blue;
-            button1.Location = new Point(0, 0);
+            button1.Location = new Point(41, 21);
             button1.Name = "button1";
             button1.Size = new Size(273, 134);
             button1.TabIndex = 0;
